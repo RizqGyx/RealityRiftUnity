@@ -17,6 +17,8 @@ public class DamageableCharacter : MonoBehaviour, IDamageable
     private float invincibleTimeElapsed = 0f;
     private Canvas sceneCanvas;
 
+    public ItemCollector point;
+
     public float Health {
         set {
             // When health is dropped (new value less than old value), play hit animation and show damage taken as text
@@ -91,6 +93,11 @@ public class DamageableCharacter : MonoBehaviour, IDamageable
         if(sceneCanvas == null) {
             Debug.LogWarning("No canvas object found in scene by " + gameObject.name);
         }
+
+        if (point == null)
+        {
+            Debug.LogWarning("Target player reference is not set in the Stat script.");
+        }
     }
 
     /// Take damage with knockback
@@ -126,6 +133,9 @@ public class DamageableCharacter : MonoBehaviour, IDamageable
     public void OnObjectDestroyed()
     {
         Destroy(gameObject);
+        if(!(gameObject.CompareTag("Player"))){
+            point.point += 20;
+        }
     }
 
     public void FixedUpdate() {
