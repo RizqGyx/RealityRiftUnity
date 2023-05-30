@@ -67,6 +67,7 @@ public class DamageableCharacter : MonoBehaviour, IDamageable
         }
      } }
 
+    public float max_health = 3;
     public float _health = 3;
     public bool _targetable = true;
 
@@ -135,6 +136,5 @@ public class DamageableCharacter : MonoBehaviour, IDamageable
                 Invincible = false;
             }
         }
-        Debug.Log(_health);
     }
 }
