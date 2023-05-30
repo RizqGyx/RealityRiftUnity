@@ -29,6 +29,8 @@ public class PlayerController : MonoBehaviour
     public bool canAttack = true;
     public string attackAnimName = "swordAttack";
 
+    public ParticleSystem dust;
+
     Rigidbody2D rb;
     Animator animator;
     SpriteRenderer spriteRenderer;
@@ -54,7 +56,7 @@ public class PlayerController : MonoBehaviour
             // Move animation and add velocity
             // Accelerate the player while run direction is pressed (limited by rigidbody linear drag)
             rb.AddForce(moveInput * moveSpeed * Time.fixedDeltaTime, ForceMode2D.Force);
-
+    
             // Control whether looking left or right
             if(moveInput.x > 0) {
                 spriteRenderer.flipX = false;
@@ -63,14 +65,13 @@ public class PlayerController : MonoBehaviour
                 spriteRenderer.flipX = true;
                 gameObject.BroadcastMessage("IsFacingRight", false);
             }
-
+                createDust();
             IsMoving = true;
 
         } else {
             IsMoving = false;
         }
     }
-
 
     // Get input values for player movement
     void OnMove(InputValue value) {
@@ -90,5 +91,9 @@ public class PlayerController : MonoBehaviour
 
     void UnlockMovement() {
         canMove = true;
+    }
+
+    void createDust() {
+        dust.Play();
     }
 }
