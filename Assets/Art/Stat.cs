@@ -15,10 +15,6 @@ public class Stat : MonoBehaviour
         content = GetComponent<Image>();
 
         // Make sure to assign the target player reference in the Inspector or via code
-        if (targetPlayer == null)
-        {
-            Debug.LogWarning("Target player reference is not set in the Stat script.");
-        }
     }
 
     // Update is called once per frame
