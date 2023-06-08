@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class DamageableCharacter : MonoBehaviour, IDamageable
 {
@@ -16,7 +17,6 @@ public class DamageableCharacter : MonoBehaviour, IDamageable
     bool isAlive = true;
     private float invincibleTimeElapsed = 0f;
     private Canvas sceneCanvas;
-
     public float Health {
         set {
             // When health is dropped (new value less than old value), play hit animation and show damage taken as text
@@ -35,10 +35,18 @@ public class DamageableCharacter : MonoBehaviour, IDamageable
 
             _health = value;
 
-            if(_health <= 0) {
-                animator.SetBool("isAlive", false);
-                Targetable = false;
-            }
+            if (_health <= 0)
+                {
+                    animator.SetBool("isAlive", false);
+                    Targetable = false;
+                    StartCoroutine(LoadLoseScreen());
+                }
+
+            IEnumerator LoadLoseScreen()
+                {
+                    yield return new WaitForSeconds(2f); // Add a 2-second delay here (adjust the time as needed)
+                    SceneManager.LoadScene("LoseScreen");
+                }
         }
         get {
             return _health;

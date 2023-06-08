@@ -61,7 +61,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6404147312064747887, guid: ef780cf1d930c984dbe5e9ec9623e968, type: 3}
       propertyPath: m_Name
-      value: Slime
+      value: Slime Variant
       objectReference: {fileID: 0}
     - target: {fileID: 6938279165855425288, guid: ef780cf1d930c984dbe5e9ec9623e968, type: 3}
       propertyPath: damage
