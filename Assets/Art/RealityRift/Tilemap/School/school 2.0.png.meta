@@ -101,6 +101,18 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -12056,12 +12068,12 @@ TextureImporter:
       school 2.0_431: -1797181652
       school 2.0_283: 1109341646
       school 2.0_549: -2107007642
-      school 2.0_386: -620955455
       school 2.0_508: -556226875
+      school 2.0_113: 873194730
       school 2.0_88: 1559478841
       school 2.0_243: 942815232
       school 2.0_366: 1898914916
-      school 2.0_113: 873194730
+      school 2.0_386: -620955455
       school 2.0_254: -584158751
       school 2.0_452: -420362899
       school 2.0_317: -1736127095
@@ -12163,18 +12175,18 @@ TextureImporter:
       school 2.0_21: -334409001
       school 2.0_440: 1542645603
       school 2.0_158: -119585532
-      school 2.0_478: -630647195
-      school 2.0_24: -1385489579
-      school 2.0_319: 1972935384
-      school 2.0_43: 2078846265
-      school 2.0_223: -1965362522
-      school 2.0_332: -815936548
       school 2.0_401: 1521787649
-      school 2.0_395: 319646802
-      school 2.0_61: 1987607678
-      school 2.0_309: 1639768494
-      school 2.0_476: -1749629859
+      school 2.0_478: -630647195
+      school 2.0_319: 1972935384
+      school 2.0_24: -1385489579
+      school 2.0_480: 1594986899
+      school 2.0_332: -815936548
+      school 2.0_223: -1965362522
+      school 2.0_548: 178277101
       school 2.0_399: 986574817
+      school 2.0_43: 2078846265
+      school 2.0_476: -1749629859
+      school 2.0_61: 1987607678
       school 2.0_116: -1774278590
       school 2.0_556: -1274956314
       school 2.0_12: 741108272
@@ -12183,14 +12195,14 @@ TextureImporter:
       school 2.0_531: 1628548045
       school 2.0_194: -1431550434
       school 2.0_457: -54949678
-      school 2.0_480: 1594986899
       school 2.0_287: 379177702
       school 2.0_149: 25185787
       school 2.0_34: -718789238
       school 2.0_241: 906972505
+      school 2.0_309: 1639768494
       school 2.0_200: -1729256874
       school 2.0_353: 1084347581
-      school 2.0_548: 178277101
+      school 2.0_395: 319646802
       school 2.0_14: 573860294
       school 2.0_122: 1419630462
       school 2.0_347: -171169560

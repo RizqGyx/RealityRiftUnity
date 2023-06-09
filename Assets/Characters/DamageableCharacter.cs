@@ -64,16 +64,18 @@ public class DamageableCharacter : MonoBehaviour, IDamageable
         physicsCollider.enabled = value;
     } }
 
-    public bool Invincible { get {
+    public bool Invincible { 
+        get {
         return _invincible;
-     }
-     set {
+        }
+        set {
         _invincible = value;
 
         if(_invincible == true) {
             invincibleTimeElapsed = 0f;
         }
-     } }
+        } 
+    }
 
     public float max_health = 3;
     public float _health = 3;
@@ -143,6 +145,14 @@ public class DamageableCharacter : MonoBehaviour, IDamageable
             if(invincibleTimeElapsed > invincibilityTime) {
                 Invincible = false;
             }
+        }
+    }
+
+    public void IncreaseHealth(int amount){
+        _health += amount;
+        
+        if(_health > max_health){
+            _health = max_health;
         }
     }
 }

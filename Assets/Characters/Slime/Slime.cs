@@ -10,19 +10,28 @@ public class Slime : MonoBehaviour
 
     public DetectionZone detectionZone;
     Rigidbody2D rb;
-
+    SpriteRenderer spriteRenderer;
     DamageableCharacter damagableCharacter;
 
     void Start(){
         rb = GetComponent<Rigidbody2D>();
         damagableCharacter = GetComponent<DamageableCharacter>();
-        
+        spriteRenderer = GetComponent<SpriteRenderer>();
     }
 
     void FixedUpdate() {
         if(damagableCharacter.Targetable && detectionZone.detectedObjs.Count > 0) {
             // Calculate direction to target object
             Vector2 direction = (detectionZone.detectedObjs[0].transform.position - transform.position).normalized;
+
+            if (direction.x > 0)
+            {
+                spriteRenderer.flipX = false;
+            }
+            else if (direction.x < 0)
+            {
+                spriteRenderer.flipX = true;
+            }
 
             // Move towards detected object
             rb.AddForce(direction * moveSpeed * Time.fixedDeltaTime);

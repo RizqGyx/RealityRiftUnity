@@ -16,7 +16,6 @@ public class LevelTransition : MonoBehaviour
     }
 
     void OnTriggerEnter2D(Collider2D collider) {
-        Debug.Log("Collision");
 
         if(collider.gameObject.tag == tagTarget) {
             // Tag Target walked onto collider shape so transition level
