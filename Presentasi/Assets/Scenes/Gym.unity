@@ -767,7 +767,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7277201195547297440, guid: 9324fbfd054c2524496c5bcb0c27a5c5, type: 3}
       propertyPath: orthographic size
-      value: 0
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 7277201195547297443, guid: 9324fbfd054c2524496c5bcb0c27a5c5, type: 3}
       propertyPath: m_Name
@@ -3081,7 +3081,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6274733701481628855, guid: 2119c12f98998e941993a68e76bf6d02, type: 3}
       propertyPath: sceneToLoad
-      value: Room
+      value: Room-GYM
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2119c12f98998e941993a68e76bf6d02, type: 3}
