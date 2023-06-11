@@ -1,0 +1,1697 @@
+fileFormatVersion: 2
+guid: b2855af960cd1fd4da8372bc768a7dfb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_0'
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 672
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4052c126bf958a249b328ca65fd498fd
+      internalID: -1739728505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_1'
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 672
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6ba7a8d0d0651468bb78e6502f625b
+      internalID: -420486749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_2'
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 672
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b563fbe00065a0448767b5ee536ec5a
+      internalID: -1875904366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_3'
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 672
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba20966f0b46fe488fffd6cf93aaa9a
+      internalID: 1600115197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_4'
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 672
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4184f72382c2d478eb285253d95780
+      internalID: 216010706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_5'
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 672
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f027e0650c3cb004b8f0777f2cfcd079
+      internalID: 1929495422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_6'
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 699
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb0eb81c94a9374890fe0aa13593e5c
+      internalID: 959966196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_7'
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 699
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c449ed0b66a83542957bfa434fb3f5f
+      internalID: 272305202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_8'
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 695
+        width: 96
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f593def27d9158b40acc72839c614696
+      internalID: -495483187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_9'
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 693
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a53f054522f2d4cbdf6e6e1178d197
+      internalID: 915024185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_10'
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 681
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c68b6490209d454080b0a3987852b3d
+      internalID: -1548400910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_11'
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 576
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380242856ca788148a8ba44815f3c0de
+      internalID: -806566064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_12'
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 576
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7517c1533d79ed84c8595336f1533a9d
+      internalID: -1435045797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_13'
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 576
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192cc1887c336e44cb60e5eb831a7e30
+      internalID: -556699346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_14'
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 576
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c252b6d4a699cb942b1dc8cac006eadb
+      internalID: -1044132368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_15'
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 576
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096c2339c62dce94bb003617b3bdcdbe
+      internalID: -774295312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_16'
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 576
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b368e176a484ad4488472a36391dd8b0
+      internalID: 2105949302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_17'
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 603
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de33a1580ab2a5488dc693676423cf6
+      internalID: 1782959128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_18'
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 603
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a54f91b069d8441bdfccc09ce96d72
+      internalID: -395866456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_19'
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 600
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e0e4cc4e489284d9f0313394446738
+      internalID: -979290674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_20'
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 597
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b21a64e993e1a4eba6156c64ff0101
+      internalID: 1417193676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_21'
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 585
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd05180f13dced489d1848877509af8
+      internalID: 1269952225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_22'
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 480
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a792b199ff47d44cb362c268fcbaee9
+      internalID: 1182265272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_23'
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 480
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a67d5da53d95d49833398d3bae0394
+      internalID: 833522663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_24'
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 480
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2d11a059d253e4187d7eb2ee80f012
+      internalID: 1328270787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_25'
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 480
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e89a0c77c5d94944b9150d2be6f83cb
+      internalID: -1272422995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_26'
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 480
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866111221ffcb5847aa95928f8710be2
+      internalID: -1130512939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_27'
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 480
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5afd9e0d0d54144bd18853ab366eab
+      internalID: -477403714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_28'
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 507
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1008986d7536c4fba02ea22bacb509
+      internalID: 1524297883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_29'
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 507
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e7c6b56dfd2334285b0174d4d63e88
+      internalID: 1057614456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_30'
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 504
+        width: 96
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636e07655e279e942976bf966de34541
+      internalID: 760823679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_31'
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 501
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d88252d66d5f24d9c4b0292e793448
+      internalID: -2016262262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_32'
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 489
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca234309c84a4e44915a9f8b7d7d025
+      internalID: -29206653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_33'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342
+        width: 48
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55c53da4a9ec7b45b64928cbd79a9fe
+      internalID: -1304577155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_34'
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 384
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93ff1ca34bb45e4ca635533ee9e8830
+      internalID: -387204883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_35'
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 384
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b736fd812f24a0a49a7b4b0b20ca6ee9
+      internalID: -1278679358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_36'
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 384
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e646ac94d15524eb3667fb3dfec329
+      internalID: 1941703023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_37'
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 384
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea03104f4c86384aa18e7995cb3be67
+      internalID: 1781032692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_38'
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 384
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c76b5704d90f2c42b5d253041e4b108
+      internalID: 312532082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_39'
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 408
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1ab5edb7ae54a4c9bf2e19136bc1e0
+      internalID: -2062110497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_40'
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 405
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f935731ca4cd9a4bb5fb50f15e48990
+      internalID: -1302206261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_41'
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 393
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c3c61f169fca141b813d3a6732060d
+      internalID: -1053863676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_42'
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 288
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90e50730de66984682f538291da792b
+      internalID: -2048732556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_43'
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 324
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3966e894ed08b4649a7b7e97b0f10cae
+      internalID: -1396075769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_44'
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 312
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39a7074c498488468b9b2b9ac632205
+      internalID: 959899230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_45'
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 312
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25cab66466eabad40aa06928e5cf0eb2
+      internalID: -501014510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_46'
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 312
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d959c02425aa234b95ec0c3a2cfe842
+      internalID: 839970841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_47'
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 312
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c9d18edf793ea419070efa25ba1087
+      internalID: 11887459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_48'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3ef6b0ad08d0a45b705535c48b53f1
+      internalID: 827310225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_49'
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 192
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62cd84411164184f8b6f8e33a20ad62
+      internalID: -1417009573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_50'
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 228
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f5f627732b21545b81e242eba7338a
+      internalID: 1401909332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_51'
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 216
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b8d90db4d05b549ae4f6fc57a92706
+      internalID: -2059357877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_52'
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 216
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3deafd151cee1645a179616c309c1c2
+      internalID: 1388617127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_53'
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 216
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688bdef88500eef489fda018af98c433
+      internalID: -193520460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_54'
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 216
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7267ae20e2b9240b12175db3224084
+      internalID: 1583024002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_55'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 141
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73360776ac5634547884cd2c6398f2da
+      internalID: 1410563636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_56'
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 135
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15eeebe14bf8ef240bd2c49b3ff8a68a
+      internalID: -1052342126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_57'
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 132
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643ef9ecec35fa043bf1dcd2eb597e96
+      internalID: 642019689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_58'
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 132
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e341c33b05981947a841ef0038ba59d
+      internalID: 1171271102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_59'
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 120
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368c6548ff75ce2408528ee471e1afe2
+      internalID: -840050001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_60'
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 120
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461f6ccec2f2de24aa2b2a7e64aa419c
+      internalID: -2106536564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_61'
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 120
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d1bdb645b5d7a4cafec34cd1468881
+      internalID: -1266769843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_62'
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 120
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1f3a23d7d583b4e883699680520661
+      internalID: 1357740496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_63'
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 96
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ee5b8a91376e64095f653f82ab0420
+      internalID: 778372477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_64'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf681e422f03da49a62d237aa0e3055
+      internalID: 269054213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_65'
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 60
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0fa616947a562e46ba5368d26955f5a
+      internalID: 1245109665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_66'
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 24
+        width: 45
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddea3b7fd3143564ca40ab5b33294b0b
+      internalID: 2085670923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_67'
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 24
+        width: 45
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ffb1370955cae4caf11a14dd83cab2
+      internalID: 185063170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_68'
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 24
+        width: 45
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a65e21384da317418e1cfc70100445e
+      internalID: 1072559711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_69'
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 24
+        width: 45
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383a46e7944ae82498735179af1f3715
+      internalID: 1974366953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Small_doors_and_others_70'
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f9f1feb8a913943ad65922689f0689
+      internalID: 257913106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      '!Small_doors_and_others_66': 2085670923
+      '!Small_doors_and_others_21': 1269952225
+      '!Small_doors_and_others_8': -495483187
+      '!Small_doors_and_others_15': -774295312
+      '!Small_doors_and_others_41': -1053863676
+      '!Small_doors_and_others_38': 312532082
+      '!Small_doors_and_others_34': -387204883
+      '!Small_doors_and_others_0': -1739728505
+      '!Small_doors_and_others_2': -1875904366
+      '!Small_doors_and_others_45': -501014510
+      '!Small_doors_and_others_7': 272305202
+      '!Small_doors_and_others_11': -806566064
+      '!Small_doors_and_others_65': 1245109665
+      '!Small_doors_and_others_14': -1044132368
+      '!Small_doors_and_others_35': -1278679358
+      '!Small_doors_and_others_4': 216010706
+      '!Small_doors_and_others_6': 959966196
+      '!Small_doors_and_others_60': -2106536564
+      '!Small_doors_and_others_70': 257913106
+      '!Small_doors_and_others_1': -420486749
+      '!Small_doors_and_others_47': 11887459
+      '!Small_doors_and_others_26': -1130512939
+      '!Small_doors_and_others_12': -1435045797
+      '!Small_doors_and_others_24': 1328270787
+      '!Small_doors_and_others_40': -1302206261
+      '!Small_doors_and_others_61': -1266769843
+      '!Small_doors_and_others_10': -1548400910
+      '!Small_doors_and_others_50': 1401909332
+      '!Small_doors_and_others_31': -2016262262
+      '!Small_doors_and_others_27': -477403714
+      '!Small_doors_and_others_16': 2105949302
+      '!Small_doors_and_others_54': 1583024002
+      '!Small_doors_and_others_59': -840050001
+      '!Small_doors_and_others_58': 1171271102
+      '!Small_doors_and_others_69': 1974366953
+      '!Small_doors_and_others_13': -556699346
+      '!Small_doors_and_others_28': 1524297883
+      '!Small_doors_and_others_22': 1182265272
+      '!Small_doors_and_others_62': 1357740496
+      '!Small_doors_and_others_37': 1781032692
+      '!Small_doors_and_others_32': -29206653
+      '!Small_doors_and_others_64': 269054213
+      '!Small_doors_and_others_3': 1600115197
+      '!Small_doors_and_others_49': -1417009573
+      '!Small_doors_and_others_53': -193520460
+      '!Small_doors_and_others_23': 833522663
+      '!Small_doors_and_others_5': 1929495422
+      '!Small_doors_and_others_68': 1072559711
+      '!Small_doors_and_others_48': 827310225
+      '!Small_doors_and_others_46': 839970841
+      '!Small_doors_and_others_43': -1396075769
+      '!Small_doors_and_others_51': -2059357877
+      '!Small_doors_and_others_29': 1057614456
+      '!Small_doors_and_others_57': 642019689
+      '!Small_doors_and_others_18': -395866456
+      '!Small_doors_and_others_30': 760823679
+      '!Small_doors_and_others_17': 1782959128
+      '!Small_doors_and_others_20': 1417193676
+      '!Small_doors_and_others_33': -1304577155
+      '!Small_doors_and_others_25': -1272422995
+      '!Small_doors_and_others_55': 1410563636
+      '!Small_doors_and_others_19': -979290674
+      '!Small_doors_and_others_36': 1941703023
+      '!Small_doors_and_others_63': 778372477
+      '!Small_doors_and_others_44': 959899230
+      '!Small_doors_and_others_9': 915024185
+      '!Small_doors_and_others_39': -2062110497
+      '!Small_doors_and_others_42': -2048732556
+      '!Small_doors_and_others_52': 1388617127
+      '!Small_doors_and_others_56': -1052342126
+      '!Small_doors_and_others_67': 185063170
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
