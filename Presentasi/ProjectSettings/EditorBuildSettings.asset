@@ -9,6 +9,15 @@ EditorBuildSettings:
     path: Assets/Scenes/StartMenu.unity
     guid: 5554d96ee4af05346b67c28639b909bc
   - enabled: 1
+    path: Assets/Scenes/Cutscene/Cutscene_1.unity
+    guid: 4d68ddebbcb3d6b418cc90c9e8e00ee0
+  - enabled: 1
+    path: Assets/Scenes/Cutscene/Cutscene_2.unity
+    guid: 5a0033a1473705342b97484c9c63ca05
+  - enabled: 1
+    path: Assets/Scenes/Cutscene/Cutscene_3.unity
+    guid: 678171063d7ec074ca31a890395b7a5a
+  - enabled: 1
     path: Assets/Scenes/BedRoomStart.unity
     guid: 8d4e17495bd4f67478680d5e4ca58b2f
   - enabled: 1
